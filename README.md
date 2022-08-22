@@ -24,8 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+Authentication app with nestJs & mongodb
 ## Installation
 
 ```bash
